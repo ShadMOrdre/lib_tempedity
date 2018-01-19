@@ -1,0 +1,4 @@
+#Enable clouds.
+#true for Celsius or false for Fahrenheit
+tempidity_celsius (Generate clouds) bool false
+

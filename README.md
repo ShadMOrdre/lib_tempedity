@@ -1,2 +1,4 @@
-# lib_tempedity
-Tempedity library updates exisitng tempedity mod for use with biome enabled mapgens
+tempidity
+=========
+
+A Minetest mod to display temperature and humidity in-game
